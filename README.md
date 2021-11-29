@@ -24,7 +24,7 @@ newyorker.com/magazine/2014/11/10/better-time
 
 ---
 
-# Know Your Firends
+# Know Your Friends
 
 * Automation
 * Keyboard
@@ -101,7 +101,7 @@ Disable touchpad
 
 # Why Linux is your friend
 
-Because it lets you to have your own environemnt
+Because it lets you to have your own environment
 
 ---
 
